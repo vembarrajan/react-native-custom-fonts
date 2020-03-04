@@ -1,5 +1,6 @@
 # react-native-custom-fonts
 Example React native custom fonts
+
 Custom font - Inconsolata-Regular
 
 # To Run IOS
