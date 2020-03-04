@@ -8,3 +8,5 @@ npx react-native run-ios
 npx react-native run-android
 
 ![Screenshot](screenshot.png)
+
+![Reference](https://medium.com/@danielskripnik/how-to-add-and-remove-custom-fonts-in-react-native-b2830084b0e4)
